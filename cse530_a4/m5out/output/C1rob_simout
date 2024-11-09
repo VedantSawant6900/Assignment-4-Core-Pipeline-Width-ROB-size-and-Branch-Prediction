@@ -1,0 +1,313 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.0.0.2
+gem5 compiled Oct 18 2022 00:41:42
+gem5 started Nov  4 2024 01:10:02
+gem5 executing on e5-cse-135-01.cse.psu.edu, pid 2961762
+command line: /home/other/CSE530-FA2022/gem5/build_a4/build/X86/gem5.opt --outdir=m5out --redirect-stdout --redirect-stderr /home/grads/vzs5407/cse530_a4/cse530_a4_sys_config.py --cse530-core-config=C1rob --binfile=/home/grads/vzs5407/cse530_a4/benchmarks/stanford/a.out --l1i_size 4kB --l1d_size 4kB --l2_size 32kB
+
+Unsupported cpu class. Creating CPU class with given values:             8 pipeline width,             16 ROB entries,             2bit branch_predictor
+Global frequency set at 1000000000000 ticks per second
+Beginning simulation!
+0 Init array started
+0 Init array ended
+0 -50000
+1 Init array started
+1 Init array ended
+1 -49999
+2 Init array started
+2 Init array ended
+2 -49997
+3 Init array started
+3 Init array ended
+3 -49985
+4 Init array started
+4 Init array ended
+4 -49964
+5 Init array started
+5 Init array ended
+5 -49962
+6 Init array started
+6 Init array ended
+6 -49944
+7 Init array started
+7 Init array ended
+7 -49939
+8 Init array started
+8 Init array ended
+8 -49915
+9 Init array started
+9 Init array ended
+9 -49880
+10 Init array started
+10 Init array ended
+10 -49878
+11 Init array started
+11 Init array ended
+11 -49867
+12 Init array started
+12 Init array ended
+12 -49866
+13 Init array started
+13 Init array ended
+13 -49841
+14 Init array started
+14 Init array ended
+14 -49821
+15 Init array started
+15 Init array ended
+15 -49817
+16 Init array started
+16 Init array ended
+16 -49814
+17 Init array started
+17 Init array ended
+17 -49813
+18 Init array started
+18 Init array ended
+18 -49796
+19 Init array started
+19 Init array ended
+19 -49786
+20 Init array started
+20 Init array ended
+20 -49783
+21 Init array started
+21 Init array ended
+21 -49780
+22 Init array started
+22 Init array ended
+22 -49761
+23 Init array started
+23 Init array ended
+23 -49733
+24 Init array started
+24 Init array ended
+24 -49718
+25 Init array started
+25 Init array ended
+25 -49714
+26 Init array started
+26 Init array ended
+26 -49712
+27 Init array started
+27 Init array ended
+27 -49694
+28 Init array started
+28 Init array ended
+28 -49692
+29 Init array started
+29 Init array ended
+29 -49679
+30 Init array started
+30 Init array ended
+30 -49678
+31 Init array started
+31 Init array ended
+31 -49677
+32 Init array started
+32 Init array ended
+32 -49662
+33 Init array started
+33 Init array ended
+33 -49643
+34 Init array started
+34 Init array ended
+34 -49616
+35 Init array started
+35 Init array ended
+35 -49612
+36 Init array started
+36 Init array ended
+36 -49589
+37 Init array started
+37 Init array ended
+37 -49560
+38 Init array started
+38 Init array ended
+38 -49530
+39 Init array started
+39 Init array ended
+39 -49527
+40 Init array started
+40 Init array ended
+40 -49526
+41 Init array started
+41 Init array ended
+41 -49524
+42 Init array started
+42 Init array ended
+42 -49509
+43 Init array started
+43 Init array ended
+43 -49485
+44 Init array started
+44 Init array ended
+44 -49470
+45 Init array started
+45 Init array ended
+45 -49457
+46 Init array started
+46 Init array ended
+46 -49451
+47 Init array started
+47 Init array ended
+47 -49442
+48 Init array started
+48 Init array ended
+48 -49441
+49 Init array started
+49 Init array ended
+49 -49440
+50 Init array started
+50 Init array ended
+50 -49430
+51 Init array started
+51 Init array ended
+51 -49423
+52 Init array started
+52 Init array ended
+52 -49422
+53 Init array started
+53 Init array ended
+53 -49414
+54 Init array started
+54 Init array ended
+54 -49395
+55 Init array started
+55 Init array ended
+55 -49393
+56 Init array started
+56 Init array ended
+56 -49388
+57 Init array started
+57 Init array ended
+57 -49375
+58 Init array started
+58 Init array ended
+58 -49371
+59 Init array started
+59 Init array ended
+59 -49340
+60 Init array started
+60 Init array ended
+60 -49318
+61 Init array started
+61 Init array ended
+61 -49313
+62 Init array started
+62 Init array ended
+62 -49296
+63 Init array started
+63 Init array ended
+63 -49274
+64 Init array started
+64 Init array ended
+64 -49268
+65 Init array started
+65 Init array ended
+65 -49257
+66 Init array started
+66 Init array ended
+66 -49256
+67 Init array started
+67 Init array ended
+67 -49207
+68 Init array started
+68 Init array ended
+68 -49199
+69 Init array started
+69 Init array ended
+69 -49192
+70 Init array started
+70 Init array ended
+70 -49190
+71 Init array started
+71 Init array ended
+71 -49184
+72 Init array started
+72 Init array ended
+72 -49183
+73 Init array started
+73 Init array ended
+73 -49179
+74 Init array started
+74 Init array ended
+74 -49176
+75 Init array started
+75 Init array ended
+75 -49170
+76 Init array started
+76 Init array ended
+76 -49169
+77 Init array started
+77 Init array ended
+77 -49141
+78 Init array started
+78 Init array ended
+78 -49130
+79 Init array started
+79 Init array ended
+79 -49122
+80 Init array started
+80 Init array ended
+80 -49117
+81 Init array started
+81 Init array ended
+81 -49110
+82 Init array started
+82 Init array ended
+82 -49079
+83 Init array started
+83 Init array ended
+83 -49073
+84 Init array started
+84 Init array ended
+84 -49069
+85 Init array started
+85 Init array ended
+85 -49046
+86 Init array started
+86 Init array ended
+86 -49033
+87 Init array started
+87 Init array ended
+87 -49021
+88 Init array started
+88 Init array ended
+88 -49018
+89 Init array started
+89 Init array ended
+89 -49012
+90 Init array started
+90 Init array ended
+90 -48999
+91 Init array started
+91 Init array ended
+91 -48996
+92 Init array started
+92 Init array ended
+92 -48994
+93 Init array started
+93 Init array ended
+93 -48968
+94 Init array started
+94 Init array ended
+94 -48955
+95 Init array started
+95 Init array ended
+95 -48951
+96 Init array started
+96 Init array ended
+96 -48919
+97 Init array started
+97 Init array ended
+97 -48915
+98 Init array started
+98 Init array ended
+98 -48908
+99 Init array started
+99 Init array ended
+99 -48907
+Exiting @ tick 109798086000 because exiting with last active thread context
